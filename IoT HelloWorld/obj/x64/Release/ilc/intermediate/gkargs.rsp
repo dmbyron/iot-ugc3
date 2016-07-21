@@ -1,0 +1,8 @@
+/In:"C:\Users\dillon.byron\Documents\Projects\Raspberry Pi\iot-ugc3\IoT HelloWorld\obj\x64\Release\ilc\in"
+/Lib:"C:\Users\dillon.byron\Documents\Projects\Raspberry Pi\iot-ugc3\IoT HelloWorld\obj\x64\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x64\ilc\lib\Private"
+/Lib:"C:\Program Files (x86)\Windows Kits\10\References\Windows.Devices.DevicesLowLevelContract\2.0.0.0"
+/Lib:"C:\Program Files (x86)\Windows Kits\10\References\Windows.System.SystemManagementContract\2.0.0.0"
+/WinMD:"C:\Users\dillon.byron\Documents\Projects\Raspberry Pi\iot-ugc3\IoT HelloWorld\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/RdXmlPath:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\LibraryXML"
+/RunOnlyPreDR

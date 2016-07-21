@@ -1,0 +1,1 @@
+C:\Users\dillon.byron\Documents\Projects\Raspberry Pi\iot-ugc3\IoT HelloWorld\StudioUgc.csproj;x64
